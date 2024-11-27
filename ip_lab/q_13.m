@@ -1,4 +1,7 @@
 % Simulate motion blur in x and y directions
+close all;
+clearvars;
+clc;
 
 % Load an image
 image = imread('cameraman.tif'); % replace 'input_image.jpg' with your image file name
