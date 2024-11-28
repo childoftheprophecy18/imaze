@@ -1,4 +1,4 @@
-sobelclose all;
+close all;
 clearvars;
 clc;
 
